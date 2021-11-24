@@ -1,2 +1,2 @@
 # Latae Softworks
-This repository holds all legal liscenses, files, and documents pertaining to Latae Softworks, LLC., and it's products/services.
+This repository holds all legal licenses, files, and documents pertaining to Latae Softworks, LLC., and it's products/services.
