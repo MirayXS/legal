@@ -1,7 +1,7 @@
 <img width="150" height="150" src="https://cdn.discordapp.com/attachments/865835923190710272/912869604714479616/Latae_Logo_White_Frame.png" alt="Latae Softworks, LLC."> <br />
 <h3>Latae Softworks, LLC.</h3>
 <sup>Open-Source License</sup> <br />
-<sup>Copyright (C) [YEAR] Latae Softworks. - All rights reserved.</sup>
+<sup>Copyright (C) 2021, Latae Softworks. - All rights reserved.</sup>
 
 ___
 
