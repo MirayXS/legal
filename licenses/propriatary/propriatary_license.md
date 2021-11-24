@@ -1,7 +1,8 @@
 <img width="150" height="150" src="https://cdn.discordapp.com/attachments/865835923190710272/912869604714479616/Latae_Logo_White_Frame.png" alt="Latae Softworks, LLC."> <br />
 <h3>Latae Softworks, LLC.</h3>
-<sup>Proprietary License</sup> <br />
-<sup>Copyright (C) [YEAR] Latae Softworks. - All rights reserved.</sup>
+<sup>Propriatary License</sup> <br />
+<sup>Copyright (C) [YEAR] Latae Softworks. - All rights reserved.</sup> <br /> <br />
+<sup>Last Revised: November 23rd, 2021</sup>
 
 ___
 
@@ -11,7 +12,7 @@ This software, and associated files are PROPRIATARY and CONFIDENTIAL to it's cre
 ___
 
 ### Liability
-This SOFTWARE IS PROVIDED "AS-IS", with NO WARRANTY PROVIDED UNDER ANY CIRCUMSTANCE OR MEDIUM. THE CREATOR(S) NOR LICENSE HOLDER(S) ARE LIABLE FOR ANYTHING DONE WITH THIS SOFTWARE (OR IT'S ASSOCIATED FILES) UNDER NO CIRCUMSTANCE OR MEDIUM. THIS INCLUDES, BUT NOT LIMITED TO: CLAIMS, DAMAGES, LEGAL INFRINGEMENT, OR ANY OTHER LIABILITY.
+THIS SOFTWARE IS PROVIDED "AS-IS", WITH NO WARRANTY PROVIDED UNDER ANY CIRCUMSTANCE OR MEDIUM. THE CREATOR(S) NOR LICENSE HOLDER(S) ARE LIABLE FOR ANYTHING DONE WITH THIS SOFTWARE (OR IT'S ASSOCIATED FILES) UNDER NO CIRCUMSTANCE OR MEDIUM. THIS INCLUDES, BUT NOT LIMITED TO: CLAIMS, DAMAGES, LEGAL INFRINGEMENT, OR ANY OTHER LIABILITY.
 
 ___
 
