@@ -2,12 +2,12 @@
 <h3>Latae Softworks, LLC.</h3>
 <sup>Open-Source License</sup> <br />
 <sup>Copyright (C) [YEAR] Latae Softworks. - All rights reserved.</sup> <br /> <br />
-<sup>Last Revised: November 23rd, 2021</sup>
+<sup>Last Revised: November 24th, 2021</sup>
 
 ___
 
 ### Distribution
-This software, and associated file(s) are free (As in freedom, and charge) for any person, group, or organization to modify, copy, and distribute without restriction. YOU MAY NOT USE THIS SOFTWARE OR ASSOCIATED FILE(S) FOR COMMERCIAL, TRADEMARK, OR OTHERWISE "PRIAVTE" USE. YOU **MUST** OPEN-SOURCE ANY SOFTWARE THAT INCLUDES A COPY OR SUBSTANTIAL PORTION(S) OF THIS SOFTWARE OR ASSOCIATED FILE(S). IF YOU USE ASSETS (MODIFIED OR NOT), FROM THIS SOFTWARE OR ASSOCIATED FILE(S) WITHOUT BEING OPEN-SOURCE (OR "PUBLIC"), THEN YOU ARE LIABLE FOR ANY LEGAL ACTION TAKEN.
+This software, and associated file(s) are free (As in freedom, and charge) for any person, group, or organization to modify, copy, and distribute without restriction. YOU MAY NOT USE THIS SOFTWARE OR ASSOCIATED FILE(S) FOR TRADEMARK, OR OTHERWISE "PRIAVTE" USE. YOU MUST OPEN-SOURCE ANY SOFTWARE THAT INCLUDES A COPY OR SUBSTANTIAL PORTION(S) OF THIS SOFTWARE OR ASSOCIATED FILE(S). IF YOU USE ASSETS (MODIFIED OR NOT), FROM THIS SOFTWARE OR ASSOCIATED FILE(S) WITHOUT BEING OPEN-SOURCE (OR "PUBLIC"), THEN YOU ARE LIABLE FOR ANY LEGAL ACTION TAKEN.
 
 ___
 
