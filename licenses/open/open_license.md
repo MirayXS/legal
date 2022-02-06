@@ -1,8 +1,8 @@
-<img width="150" height="150" src="https://cdn.discordapp.com/attachments/865835923190710272/912869604714479616/Latae_Logo_White_Frame.png" alt="Latae Softworks, LLC."> <br />
-<h3>Latae Softworks, LLC.</h3>
+<img width="150" height="150" src="https://cdn.discordapp.com/attachments/865835923190710272/912869604714479616/Latae_Logo_White_Frame.png" alt="Latte Softworks"> <br />
+<h3>Latte Softworks</h3>
 <sup>Open-Source License</sup> <br />
-<sup>Copyright (C) [YEAR] Latae Softworks. - All rights reserved.</sup> <br /> <br />
-<sup>Last Revised: November 24th, 2021</sup>
+<sup>Copyright (C) [YEAR] Latte Softworks, All rights reserved.</sup> <br /> <br />
+<sup>Last Revised: February 5th, 2022</sup>
 
 ___
 

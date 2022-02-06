@@ -1,9 +1,9 @@
-Latae Softworks, LLC
+Latte Softworks
 Open-Source License
 
-Last Revised: November 24th, 2021
+Last Revised: February 5th, 2022
 
-Copyright (C) [YEAR] Latae Softworks. - All rights reserved.
+Copyright (C) [YEAR] Latte Softworks, All rights reserved.
 
 ** Distribution **
 This software, and associated file(s) are free (As in freedom, and charge) for any person, group, or organization to modify, copy, and distribute without restriction. YOU MAY NOT USE THIS SOFTWARE OR ASSOCIATED FILE(S) FOR TRADEMARK, OR OTHERWISE "PRIAVTE" USE. YOU MUST OPEN-SOURCE ANY SOFTWARE THAT INCLUDES A COPY OR SUBSTANTIAL PORTION(S) OF THIS SOFTWARE OR ASSOCIATED FILE(S). IF YOU USE ASSETS (MODIFIED OR NOT), FROM THIS SOFTWARE OR ASSOCIATED FILE(S) WITHOUT BEING OPEN-SOURCE (OR "PUBLIC"), THEN YOU ARE LIABLE FOR ANY LEGAL ACTION TAKEN.
