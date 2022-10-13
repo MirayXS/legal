@@ -5,4 +5,4 @@ ___
 
 ### Links:
 - [Latte Open-Source License](https://github.com/latte-soft/legal/blob/main/licenses/open/open_license.md) - [Text Document](https://github.com/latte-soft/legal/blob/main/licenses/open/open_license.txt)
-- [Latte Propretary License](https://github.com/latte-soft/legal/blob/main/licenses/proprietary/proprietary_license.md) - [Text Document](https://github.com/latte-soft/legal/blob/main/licenses/propriatary/proprietary_license.txt)
+- [Latte Proprietary License](https://github.com/latte-soft/legal/blob/main/licenses/proprietary/proprietary_license.md) - [Text Document](https://github.com/latte-soft/legal/blob/main/licenses/proprietary/proprietary_license.txt)
